@@ -1,9 +1,9 @@
 /*
  * PROJECT:         ReactOS Kernel
  * LICENSE:         GPL - See COPYING in the top level directory
- * FILE:            ntoskrnl/ke/bug.c
- * PURPOSE:         Bugcheck Support
- * PROGRAMMERS:     Alex Ionescu (alex.ionescu@reactos.org)
+ * FILE:            computerconnor.github.io/sidebar/hacker-typer/bug.c
+ * PURPOSE:         Pure Boredem and Nothing Else
+ * PROGRAMMERS:     Connor Jordan (cj9366455@gmail.com
  */
 
 /* INCLUDES ******************************************************************/

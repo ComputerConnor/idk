@@ -2,7 +2,7 @@
  * PROJECT:         ReactOS Kernel
  * LICENSE:         GPL - See COPYING in the top level directory
  * FILE:            computerconnor.github.io/sidebar/hacker-typer/bug.c
- * PURPOSE:         Pure Boredem and Nothing Else
+ * PURPOSE:         Pure Boredom and Nothing Else
  * PROGRAMMERS:     Connor Jordan (cj9366455@gmail.com
  */
 

@@ -115,7 +115,7 @@
         function next(){
             
             currentSong++;
-            if(currentSong > 9){
+            if(currentSong > 10){
                 currentSong = 0;
             }
             playSong();
@@ -128,7 +128,7 @@
             
             currentSong--;
             if(currentSong < 0){
-                currentSong = 10;
+                currentSong = 11;
             }
             playSong();
             $("#play img").attr("src","Pause.png");

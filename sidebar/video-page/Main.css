@@ -1,7 +1,8 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #334621;
+    background-image: url("home-bg.gif");
+    background-color: #000000;
 }
 #frame{
     height: 400px;

@@ -1,1 +1,0 @@
-bash upload 1

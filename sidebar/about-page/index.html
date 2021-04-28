@@ -1,53 +1,39 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>About Me</title>
-    <link rel="stylesheet" href="style.css">
-    <meta name="viewport" content="width=device-width, initial-sclae=1.0">
+<head></head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap" rel="stylesheet">
+<style>
+  div {
+  width: 350px;
+  height: 180px;
+  background-color: red;
+  position: relative;
+  animation: myfirst 5s linear 1s infinite alternate;
+  box-shadow: 0px 0px 40px rgb(0, 0, 0);
+}
 
+h1{
+  font-family: 'Zen Dots', cursive;
+  font-size: 20px;
+  float: center;
+}
 
-  </head>
-  <body>
-      <div class="about-section">
-        <div class="inner-width">
-          <h1>About Me</h1>
-          <div class="border"></div>
-          <div class="about-section-row">
-            <div class="about-section-col">
-              <div class="about">
-                <p>
-                  Potato
-                </p>
-                <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Read More</a>
-              </div>
-            </div>
-            <div class="about-section-col">
-              <div class="skills">
-                <div class="skill">
-                  <div class="title">Javascript</div>
-                  <div class="progress">
-                    <div class="progress-bar p1"><span>59.2%</span></div>
-                  </div>
-                </div>
+@keyframes myfirst {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:rgb(255, 196, 0); left:200px; top:0px;}
+  50%  {background-color:rgb(217, 255, 0); left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:rgb(0, 4, 255); left:0px; top:0px;}
+}
+</style>
+<body>
+  <a href="index.html">
+      <img src="backbutton.png" alt="Back Button" style="width:100px;height:100px;">
+    </a>
+    <br><br><br>      <center><h1><div><p4>
+      <br><br>
+  <br>Just your average teenage programmer
+ </p4></div></h1></center>
+</body>
 
-                <div class="skill">
-                  <div class="title">CSS</div>
-                  <div class="progress">
-                    <div class="progress-bar p2"><span>29.1%</span></div>
-                  </div>
-                </div>
-
-                <div class="skill">
-                  <div class="title">HTML</div>
-                  <div class="progress">
-                    <div class="progress-bar p3"><span>11.7%</span></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-  </body>
 </html>

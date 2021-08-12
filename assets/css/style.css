@@ -1,3 +1,5 @@
+
+
 /*
   Theme Name: Folio
   Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
@@ -9,7 +11,7 @@
 /*-----------------------------------------------------------------------------------*/
 
 body {
-  background: #ffffff;
+  background: #000000;
   color: #898989;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
@@ -27,7 +29,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-top:0;
+  margin: 0;
 }
 
 h2 {

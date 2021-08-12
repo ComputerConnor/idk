@@ -34,6 +34,7 @@
     float: none;
     width: 100%;
     text-align: center;
+    border-top: 1px solid #f7f7f7;
     line-height: 45px;
     margin-left: 0;
     padding-top: 10px;

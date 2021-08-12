@@ -1,5 +1,5 @@
 
-
+v
 /*
   Theme Name: Folio
   Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
@@ -357,18 +357,18 @@ nav ul li a {
 }
 
 /*----------------------------------------------------------------------------------*/
-/*  Header
+/*  Header Note: vh= scroll distance. Potential Addition to Front Page Further Down The Line
 /*-----------------------------------------------------------------------------------*/
 
 #header {
   background: url("../images/home-bg.gif") repeat scroll center center / cover;
-  height: 110vh;
+  height: 100vh;
   width: 100%;
 }
 
 
 #header .header-content {
-  height: 110vh;
+  height: 100vh;
   text-align: left;
   width: 100%;
   display: flex;

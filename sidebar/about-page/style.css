@@ -1,5 +1,3 @@
-
-
 /*
   Theme Name: Folio
   Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
@@ -175,6 +173,14 @@ p {
 
 .w3-btn {
   position:absolute; 
-  top:0; 
-  left:0;
+  top:10px; 
+  left:55px;
+  width:52px;
+  height:20px;
+  z-index: 2;
+  text-align:center;
+  border: none;
+  display: inline-block;
+  padding: 15px 32px;
+  color: white;
 }

@@ -23,8 +23,8 @@
 # Set Variables
 
 $guestbookurl = "https://computerconnor.github.io/sidebar/bulletin/guestbook.html";
-$guestbookreal = "/home/yourname/public_html/guestbook.html";
-$guestlog = "/home/yourname/public_html/guestlog.html";
+$guestbookreal = "computerconnor.github.io/sidebar/bulletin/guestbook.html";
+$guestlog = "computerconnor.github.io/sidebar/bulletinguestlog.html";
 $cgiurl = "http://your.host.com/cgi-bin/guestbook.pl";
 $date_command = "/usr/bin/date";
 
